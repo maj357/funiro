@@ -4285,7 +4285,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
 
 @media (max-width: 479.98px) {
   .rooms__slider {
-    margin: 0px -50px !important;
+    margin: 0px -15px;
   }
 
   .slider-rooms__slide {
