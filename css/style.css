@@ -4461,7 +4461,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-zoom .lg-item.lg-complete .lg-object 
   }
 }
 
-@media (any-hover: none) and (pointer: coarse) {
+@media (hover: none) and (pointer: coarse) {
   .item-product__actions {
     padding: 15px 0px 0px 0px;
   }
